@@ -21,7 +21,7 @@ Making its debut in the late 18th century, Gothic fiction was a branch of the la
 
 
 ## Creator 
-Yunchi Liu, Sun Leo Rising Saggitarius and Moon Gemini :)
+Yunchi Liu, Sun :leo: Rising ♐ and Moon :gemini: 
 
 ## Source 
 https://www.goodreads.com/list/show/1230.Best_Gothic_Books_Of_All_Time
