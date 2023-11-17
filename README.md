@@ -18,7 +18,19 @@ Making its debut in the late 18th century, Gothic fiction was a branch of the la
 |The Thirteenth Tale|Diane Setterfield|
 |Carmilla|J. Sheridan Le Fanu|
 |The Monk|Matthew Gregory Lewis|
-
+|The Picture of Dorian Gray|Oscar Wilde|
+|Dracula|Bram Stoker|
+|The Turn of the Screw|Henry James|
+|The Yellow Wall-Paper|Charlotte Perkins Gilman|
+|The Hunchback of Notre-Dame|Victor Hugo|
+|The Hound of the Baskervilles|Arthur Conan Doyle|
+|The Castle of Otranto|Horace Walpole|
+|The Bloody Chamber and Other Stories|Angela Carter|
+|The Mysteries of Udolpho|Ann Radcliffe|
+|The Raven|Edgar Allan Poe|
+|The Woman in Black|Susan Hill|
+|The Legend of Sleepy Hollow|Washington Irving|
+|My Cousin Rachel|Daphne du Maurier|
 
 ## Creator 
 Yunchi Liu, Sun :leo: Rising ♐ and Moon :gemini: 
