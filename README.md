@@ -5,6 +5,7 @@ Making its debut in the late 18th century, Gothic fiction was a branch of the la
 
 ## Variables
 |Element|Descripition|
+|---|---|
 |<sp>|Speech or spoken text|
 |<Novelname>|Name of the gothic novel|
 |<Author>|Author of the novel|
